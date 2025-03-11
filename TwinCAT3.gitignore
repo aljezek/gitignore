@@ -23,3 +23,7 @@ _Boot/
 _CompileInfo/
 _Libraries/
 _ModuleInstall/
+
+#Added from the TwinCAT 3 Source Control manual
+*.xtv
+*.xtv.bak
